@@ -1,0 +1,24 @@
+.not-found-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.image {
+  height: 250px;
+  width: 250px;
+}
+
+.heading {
+  font-size: 14px;
+  color: #183b56;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.para {
+  font-size: 12px;
+  color: #c3cad9;
+  font-weight: 500;
+  font-family: 'Roboto';
+}

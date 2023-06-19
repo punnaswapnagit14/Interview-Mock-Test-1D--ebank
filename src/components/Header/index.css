@@ -1,0 +1,18 @@
+.nav-ele {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.image {
+  height: 150px;
+  width: 150px;
+}
+.button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+}
